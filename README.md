@@ -1,1 +1,1 @@
-Various projects using statsmodels, ARIMA, SARIMA and RNN for prediction
+Various projects using statsmodels, ARIMA, SARIMA , VAR and RNN for prediction
